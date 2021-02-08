@@ -1,0 +1,9 @@
+GET http://localhost:8080/api/todos
+Accept: application/json
+
+###
+
+GET http://localhost:8080/api/todo/99
+Accept: application/json
+
+###
